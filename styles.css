@@ -6,6 +6,8 @@ h1.index {
     background-color: lightblue;
     text-align: center;
     color: brown;
+    padding: 4px;
+    border: thin solid black;
 }
 
 div.index {
@@ -28,4 +30,8 @@ h3 {
 
 li {
     background-color: azure;
+    width: 400px;
+    border: 2px solid red;
+    padding: 5px;
+    margin: 5px;
 }
